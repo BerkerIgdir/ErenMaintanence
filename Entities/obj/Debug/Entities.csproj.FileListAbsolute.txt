@@ -1,0 +1,9 @@
+C:\Users\fdepl009\source\repos\Solution1\Entities\bin\Debug\Entities.dll
+C:\Users\fdepl009\source\repos\Solution1\Entities\bin\Debug\Entities.pdb
+C:\Users\fdepl009\source\repos\Solution1\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\fdepl009\source\repos\Solution1\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\fdepl009\source\repos\Solution1\Entities\obj\Debug\Entities.dll
+C:\Users\fdepl009\source\repos\Solution1\Entities\obj\Debug\Entities.pdb
+C:\Users\fdepl009\source\repos\Solution1\Entities\bin\Debug\JetBrains.Annotations.dll
+C:\Users\fdepl009\source\repos\Solution1\Entities\bin\Debug\JetBrains.Annotations.xml
+C:\Users\fdepl009\source\repos\Solution1\Entities\obj\Debug\Entities.csproj.CopyComplete

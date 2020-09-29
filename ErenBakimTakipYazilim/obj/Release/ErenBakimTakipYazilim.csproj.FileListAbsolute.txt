@@ -1,0 +1,10 @@
+C:\Users\fdepl009\source\repos\Solution1\ErenBakimTakipYazilim\obj\Release\ErenBakimTakipYazilim.csprojAssemblyReference.cache
+C:\Users\fdepl009\source\repos\Solution1\ErenBakimTakipYazilim\obj\Release\ErenBakimTakipYazilim.VeriGirisForm.resources
+C:\Users\fdepl009\source\repos\Solution1\ErenBakimTakipYazilim\obj\Release\ErenBakimTakipYazilim.MainForm.resources
+C:\Users\fdepl009\source\repos\Solution1\ErenBakimTakipYazilim\obj\Release\ErenBakimTakipYazilim.Properties.Resources.resources
+C:\Users\fdepl009\source\repos\Solution1\ErenBakimTakipYazilim\obj\Release\ErenBakimTakipYazilim.Usta_Veri_Giris.CostControl.resources
+C:\Users\fdepl009\source\repos\Solution1\ErenBakimTakipYazilim\obj\Release\ErenBakimTakipYazilim.VeriGirisControl.resources
+C:\Users\fdepl009\source\repos\Solution1\ErenBakimTakipYazilim\obj\Release\ErenBakimTakipYazilim.Veri_Okuma.DataMonitoringControl.resources
+C:\Users\fdepl009\source\repos\Solution1\ErenBakimTakipYazilim\obj\Release\ErenBakimTakipYazilim.csproj.GenerateResource.cache
+C:\Users\fdepl009\source\repos\Solution1\ErenBakimTakipYazilim\obj\Release\ErenBakimTakipYazilim.exe.licenses
+C:\Users\fdepl009\source\repos\Solution1\ErenBakimTakipYazilim\obj\Release\ErenBakimTakipYazilim.csproj.CoreCompileInputs.cache
